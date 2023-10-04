@@ -1,0 +1,14 @@
+homework2 = 메인 루프
+first_option.py	= 1번 구현 사항
+first.csv 		= 1번 옵션 저장된 파일
+
+second_option.py	= 2번 구현 사항
+second.csv	= 2번 옵션 저장된 파일
+
+third_option.py	= 3번 구현 사항
+
+listread.py	= hw2.csv 파일 읽는 모듈
+
+homework2.py 를 실행하면
+"옵션 선택 : " 이 나오고 각 옵션 번호로 
+넣어서 옵션 접근 가능
