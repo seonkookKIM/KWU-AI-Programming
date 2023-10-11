@@ -1,0 +1,4 @@
+1. homework3.py 파일 실행
+2. 크롬 브라우저가 뜨면 잠시 내리고 vs code 터미널에 URL 입력
+3. https://naver.com 과 같은 형식으로 입력
+4. STOPWORDS를 제외한 사이트의 TEXT들이 WordCloud로 시각화
